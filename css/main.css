@@ -1,9 +1,13 @@
+/*Estilos globales*/
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+
+/*Estilos del header*/
 
 .header{
     padding: 5px;
@@ -16,6 +20,8 @@
 .main{
     padding: 5px;
 }
+
+/*Estilos del formulario*/
 
 .form{
     display: flex;
